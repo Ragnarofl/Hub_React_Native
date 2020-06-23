@@ -10,9 +10,9 @@ Expo sur Téléphone
 $> expo init PROJECTNAME
 ```
 
+![](images/react_native.png)
+![](images/react_native2.png)
+
 ```
 $> npm start
 ```
-<br/>
-![](react_native.png)
-<br/>
