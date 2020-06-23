@@ -11,7 +11,6 @@ $> expo init PROJECTNAME
 ```
 
 ![](images/react_native.png)
-
 ![](images/react_native2.png)
 
 ```
