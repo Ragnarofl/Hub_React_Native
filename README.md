@@ -14,5 +14,5 @@ $> expo init PROJECTNAME
 $> npm start
 ```
 <br/>
-![](react_native.png)
+![](images/react_native.png)
 <br/>
