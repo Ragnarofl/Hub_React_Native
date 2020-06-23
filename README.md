@@ -13,6 +13,4 @@ $> expo init PROJECTNAME
 ```
 $> npm start
 ```
-<br/>
 ![](images/react_native.png)
-<br/>
