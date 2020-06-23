@@ -1,9 +1,20 @@
-npm install -g expo-cli
+```
+$> npm install -g expo-cli
+```
 
 Nuclide pour Atom
 
 Expo sur Téléphone
 
-expo init PROJECTNAME
+```
+$> expo init PROJECTNAME
+```
 
-npm start
+```
+$> npm start
+```
+<br/>
+#imageCenter(react_native.png, 500px)
+
+#imageCenter(react_native2.png, 500px)
+<br/>
