@@ -14,5 +14,5 @@ $> expo init PROJECTNAME
 $> npm start
 ```
 <br/>
-![Alt text](https://github.com/Ragnarofl/Hub_React_Native/blob/master/react_native.png?raw=true)
+![Alt text](https://github.com/Ragnarofl/Hub_React_Native/blob/master/react_native.png)
 <br/>
