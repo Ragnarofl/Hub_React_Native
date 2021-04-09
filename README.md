@@ -92,6 +92,7 @@ Maintenant que je vous ai montré les concepts de base, vous devriez avoir tout 
 ![](images/react_native6.png)
 
 L'exercice est le suivant, essayez d'obtenir le même rendu que la petite carte ci-dessus avec des components de base et les flex box.
+Une conseil, regardez bien la 2eme image, on peux voir "l'arborescence" des Views ce qui va beaucoup vous aider pour gérer les flexbox et obtenir le même résultat.
 Si le CSS ne correspond pas exactement ce n'est pas grave mais essayez de le peaufiner le plus possible !
 
 # La suite
