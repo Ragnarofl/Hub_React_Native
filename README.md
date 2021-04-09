@@ -83,10 +83,21 @@ Vous pouvez ensuite essayer d'obtenir ce genre de résultat un poil plus complex
 
 ![](images/react_native4.png)
 
+# Exercice Pratique
+
+Maintenant que je vous ai montré les concepts de base, vous devriez avoir tout ce qu'il vous faut pour tenter de réaliser un exercice pratique.
+
+![](images/react_native5.png)
+
+![](images/react_native6.png)
+
+L'exercice est le suivant, essayez d'obtenir le même rendu que la petite carte ci-dessus avec des components de base et les flex box.
+Si le CSS ne correspond pas exactement ce n'est pas grave mais essayez de le peaufiner le plus possible !
+
 # La suite
 
 Et ce seras tout pour ce petit Workshop, je préfére rester sur une introduction et vous rédiriger vers le guide de OpenClassrooms bien plus complet sur le sujet.
 
-https://openclassrooms.com/fr/courses/4902061-developpez-une-application-mobile-react-native/4916061-appliquez-des-styles-a-vos-components
+https://openclassrooms.com/fr/courses/4902061-developpez-une-application-mobile-react-native/4978176-utilisez-les-props
 
 Merci d'avoir continué jusque ici !
